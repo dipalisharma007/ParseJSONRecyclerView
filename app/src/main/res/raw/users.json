@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Mohan Singh",
+    "subjects": [
+      "Chemistry"
+    ],
+    "qualification": [
+      "IIT Mumbai"
+    ],
+    "profileImage": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/019d5525-c906-4697-b8d1-7b9ed235abe6.png"
+  },
+  {
+    "id": 2,
+    "name": "Anushka Choudhary",
+    "subjects": [
+      "Chemistry"
+    ],
+    "qualification": [
+      "Masters(Chemistry)"
+    ],
+    "profileImage": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/71ec7e49-9229-46ab-ac71-71aefee195ff.png"
+  },
+  {
+    "id": 3,
+    "name": "Ashima Gupta",
+    "subjects": [
+      "Chemistry"
+    ],
+    "qualification": [
+      "M.Sc Chemistry(Inorganic)"
+    ],
+    "profileImage": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4abd290c-6b46-4f6e-afde-35a229d7ce16.png"
+  },
+  {
+    "id": 4,
+    "name": "Danish Zafar",
+    "subjects": [
+      "English"
+    ],
+    "qualification": [
+      "Ph.D in English",
+      "M.Phil in English"
+    ],
+    "profileImage": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/cc7dd5d6-1b3d-4fe3-ae49-30c39360ce5a.png"
+  },
+  {
+    "id": 5,
+    "name": "Shivam Bhargava",
+    "subjects": [
+      "Maths"
+    ],
+    "qualification": [
+      "Ph.D in English",
+      "M.Phil in English"
+    ],
+    "profileImage": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/cc7dd5d6-1b3d-4fe3-ae49-30c39360ce5a.png"
+  },
+  {
+    "id": 6,
+    "name": "Danish Zafar",
+    "subjects": [
+      "Chemistry"
+    ],
+    "qualification": [
+      "BTECH NIT JALANDHAR"
+    ],
+    "profileImage": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/53022728-b6ed-43bf-ba9a-84acbf0df7df.png"
+  },
+  {
+    "id": 7,
+    "name": "Nitish Kumar Verma",
+    "subjects": [
+      "Chemistry"
+    ],
+    "qualification": [
+      "B.Tech in Mechanical",
+      "M.Tech in Material Science and Technology"
+    ],
+    "profileImage": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/7ef6cea5-7fb4-4427-b525-f093ce149460.png"
+  }
+]
